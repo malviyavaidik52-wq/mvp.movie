@@ -1,0 +1,57 @@
+#a{
+    font-size:50px;
+    text-align:center;
+    text-decoration: double underline red;
+    color: white;
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(file:///C:/Users/HP/Desktop/3d-rendering-hexagonal-texture-background_23-2150796417.avif);
+    background-size: cover;
+}
+header{
+    height: 50px;
+    width: 1024px;
+    font-size: 50px;
+    background-image:url(file:///C:/movie/IMAGES/images.jpg);
+    background-size: cover;
+    border: 5px double yellowgreen;
+    border-radius: 15px;
+    color:aliceblue;
+    
+    
+}
+footer{
+    background-color: white;
+    font-size: 80px;
+    height: 90px;
+    display: inline;
+}
+p{
+    background-color: skyblue;
+    border:15px double yellow;
+    height: 200px;
+    width:720px;
+     font-size: 25px;
+}
+#S{
+    position:relative;
+    left: 500px;
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    background-color: yellowgreen;
+    border: 2px double red;
+    border-radius: 15%;
+    
+
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+footer{
+    background-color: firebrick;
+    color:yellow;
+    border-radius:15px;
+}
